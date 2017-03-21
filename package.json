@@ -1,6 +1,6 @@
 {
   "name": "smooch-bot-example",
-  "version": "1.3.10",
+  "version": "1.0.0",
   "description": "Smooch Bot Example Apps",
   "author": "Andrew Lavers <alavers@system42.net> (http://smooch.io/)",
   "scripts": {
